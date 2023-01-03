@@ -6,6 +6,13 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
+    path: Assets/Scenes/Main Menu.unity
+    guid: bc770d26149dfef488289b7425f8e593
+  - enabled: 1
+    path: Assets/Scenes/Laser Defender.unity
     guid: 2cda990e2423bbf4892e6590ba056729
-  m_configObjects: {}
+  - enabled: 1
+    path: Assets/Scenes/Score Screen.unity
+    guid: 08aad124151e3dc4aae9eecdf8bfa6de
+  m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: 26adc1469782677479669f3d742a39f9, type: 2}
